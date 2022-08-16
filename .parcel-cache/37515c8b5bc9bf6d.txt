@@ -49,7 +49,7 @@
 75E:\Programs\IT\Go-IT\js-10-food-service\node_modules\regjsparser\bin\parser133051503348371057 0
 90E:\Programs\IT\Go-IT\js-10-food-service\node_modules\.bin\node-gyp-build-optional-packages133051503409664793 0
 82E:\Programs\IT\Go-IT\js-10-food-service\node_modules\ajv\lib\dotjs\dependencies.js133051503377707628 0
-44E:\Programs\IT\Go-IT\js-10-food-service\dist133051509770780023 1
+44E:\Programs\IT\Go-IT\js-10-food-service\dist133051600371329035 1
 67E:\Programs\IT\Go-IT\js-10-food-service\node_modules\string_decoder133051503354792512 1
 80E:\Programs\IT\Go-IT\js-10-food-service\node_modules\ajv\lib\dotjs\properties.js133051503380098161 0
 86E:\Programs\IT\Go-IT\js-10-food-service\node_modules\css-modules-loader-core\README.md133051503349991428 0
@@ -87,7 +87,7 @@
 70E:\Programs\IT\Go-IT\js-10-food-service\node_modules\browserify-cipher133051503361494008 1
 79E:\Programs\IT\Go-IT\js-10-food-service\node_modules\resolve\test\pathfilter.js133051503383138844 0
 83E:\Programs\IT\Go-IT\js-10-food-service\node_modules\uri-js\dist\esnext\util.js.map133051503377167504 0
-56E:\Programs\IT\Go-IT\js-10-food-service\src\js\menu.json133050443550227639 0
+56E:\Programs\IT\Go-IT\js-10-food-service\src\js\menu.json133051526309664558 0
 91E:\Programs\IT\Go-IT\js-10-food-service\node_modules\iconv-lite\encodings\tables\eucjp.json133051503371216180 0
 90E:\Programs\IT\Go-IT\js-10-food-service\node_modules\caniuse-lite\data\features\css-all.js133051503385739432 0
 72E:\Programs\IT\Go-IT\js-10-food-service\node_modules\typedarray\index.js133051503353152132 0
@@ -152,7 +152,7 @@
 96E:\Programs\IT\Go-IT\js-10-food-service\node_modules\core-js\modules\es7.object.lookup-setter.js133051503400942834 0
 107E:\Programs\IT\Go-IT\js-10-food-service\node_modules\es-abstract\2017\ValidateAndApplyPropertyDescriptor.js133051503407364274 0
 76E:\Programs\IT\Go-IT\js-10-food-service\node_modules\postcss-selector-parser133051503377617605 1
-62E:\Programs\IT\Go-IT\js-10-food-service\src\templates\menu.hbs133051509385837917 0
+62E:\Programs\IT\Go-IT\js-10-food-service\src\templates\menu.hbs133051548236852183 0
 90E:\Programs\IT\Go-IT\js-10-food-service\node_modules\caniuse-lite\data\features\colr-v1.js133051503384909256 0
 103E:\Programs\IT\Go-IT\js-10-food-service\node_modules\parcel-bundler\node_modules\domhandler\.travis.yml133051503350511558 0
 65E:\Programs\IT\Go-IT\js-10-food-service\node_modules\uniq\uniq.js133051503357393087 0
@@ -288,7 +288,7 @@
 93E:\Programs\IT\Go-IT\js-10-food-service\node_modules\cssstyle\lib\properties\borderSpacing.js133051503377367558 0
 77E:\Programs\IT\Go-IT\js-10-food-service\node_modules\simple-swizzle\README.md133051503349621332 0
 82E:\Programs\IT\Go-IT\js-10-food-service\node_modules\es-abstract\2022\BinaryXor.js133051503384459148 0
-55E:\Programs\IT\Go-IT\js-10-food-service\src\js\index.js133051510008218996 0
+55E:\Programs\IT\Go-IT\js-10-food-service\src\js\index.js133051600369689975 0
 90E:\Programs\IT\Go-IT\js-10-food-service\node_modules\core-js\modules\es6.regexp.replace.js133051503398082182 0
 95E:\Programs\IT\Go-IT\js-10-food-service\node_modules\parcel-bundler\lib\utils\getCertificate.js133051503384279098 0
 105E:\Programs\IT\Go-IT\js-10-food-service\node_modules\@babel\runtime\helpers\defineEnumerableProperties.js133051503378457790 0
@@ -13437,7 +13437,7 @@
 92E:\Programs\IT\Go-IT\js-10-food-service\node_modules\js-yaml\lib\js-yaml\type\js\function.js133051503369105702 0
 93E:\Programs\IT\Go-IT\js-10-food-service\node_modules\js-yaml\lib\js-yaml\type\js\undefined.js133051503378017696 0
 87E:\Programs\IT\Go-IT\js-10-food-service\node_modules\js-yaml\lib\js-yaml\schema\core.js133051503362454219 0
-62E:\Programs\IT\Go-IT\js-10-food-service\dist\index.739bf03c.js133051509770740013 0
+62E:\Programs\IT\Go-IT\js-10-food-service\dist\index.739bf03c.js133051600371299024 0
 95E:\Programs\IT\Go-IT\js-10-food-service\node_modules\js-yaml\lib\js-yaml\schema\default_safe.js133051503364834749 0
 91E:\Programs\IT\Go-IT\js-10-food-service\node_modules\js-yaml\lib\js-yaml\schema\failsafe.js133051503367435326 0
 86E:\Programs\IT\Go-IT\js-10-food-service\node_modules\es-abstract\2022\ByteListEqual.js133051503385959473 0
@@ -15225,7 +15225,7 @@
 90E:\Programs\IT\Go-IT\js-10-food-service\node_modules\es-abstract\2020\LengthOfArrayLike.js133051503398442282 0
 81E:\Programs\IT\Go-IT\js-10-food-service\node_modules\es-abstract\2020\MakeDate.js133051503398732341 0
 80E:\Programs\IT\Go-IT\js-10-food-service\node_modules\es-abstract\2020\MakeDay.js133051503398852365 0
-63E:\Programs\IT\Go-IT\js-10-food-service\dist\index.77a9bc14.css133051509770740013 0
+63E:\Programs\IT\Go-IT\js-10-food-service\dist\index.77a9bc14.css133051598106256123 0
 94E:\Programs\IT\Go-IT\js-10-food-service\node_modules\cosmiconfig\dist\getPropertyByPath.js.map133051503373246631 0
 83E:\Programs\IT\Go-IT\js-10-food-service\node_modules\core-js\library\core\regexp.js133051503406644108 0
 84E:\Programs\IT\Go-IT\js-10-food-service\node_modules\es-abstract\2020\MinFromTime.js133051503400022633 0
@@ -17700,7 +17700,7 @@
 89E:\Programs\IT\Go-IT\js-10-food-service\node_modules\caniuse-lite\dist\unpacker\region.js133051503398202221 0
 92E:\Programs\IT\Go-IT\js-10-food-service\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133051503381308434 0
 86E:\Programs\IT\Go-IT\js-10-food-service\node_modules\caniuse-lite\dist\lib\statuses.js133051503400062633 0
-55E:\Programs\IT\Go-IT\js-10-food-service\dist\index.html133051509770729996 0
+55E:\Programs\IT\Go-IT\js-10-food-service\dist\index.html133051598106246136 0
 87E:\Programs\IT\Go-IT\js-10-food-service\node_modules\caniuse-lite\dist\lib\supported.js133051503400152669 0
 80E:\Programs\IT\Go-IT\js-10-food-service\node_modules\caniuse-lite\data\agents.js133051503367865422 0
 110E:\Programs\IT\Go-IT\js-10-food-service\node_modules\browserify-sign\node_modules\readable-stream\lib\internal133051503363274405 1
@@ -20644,9 +20644,9 @@
 66E:\Programs\IT\Go-IT\js-10-food-service\node_modules\.bin\uuid.ps1133051503409704798 0
 67E:\Programs\IT\Go-IT\js-10-food-service\node_modules\.bin\which.cmd133051503409724817 0
 67E:\Programs\IT\Go-IT\js-10-food-service\node_modules\.bin\which.ps1133051503409724817 0
-66E:\Programs\IT\Go-IT\js-10-food-service\dist\index.739bf03c.js.map133051509770770015 0
-67E:\Programs\IT\Go-IT\js-10-food-service\dist\index.77a9bc14.css.map133051509770770015 0
+66E:\Programs\IT\Go-IT\js-10-food-service\dist\index.739bf03c.js.map133051600371319023 0
+67E:\Programs\IT\Go-IT\js-10-food-service\dist\index.77a9bc14.css.map133051598106276143 0
 62E:\Programs\IT\Go-IT\js-10-food-service\dist\index.975ef6c8.js133051504307254259 0
 66E:\Programs\IT\Go-IT\js-10-food-service\dist\index.975ef6c8.js.map133051504307284258 0
-64E:\Programs\IT\Go-IT\js-10-food-service\dist\sprite.f14d31f7.svg133051509770710004 0
+64E:\Programs\IT\Go-IT\js-10-food-service\dist\sprite.f14d31f7.svg133051598106216117 0
 61E:\Programs\IT\Go-IT\js-10-food-service\.vscode\settings.json133050444097543126 0
