@@ -1,9 +1,11 @@
 {
   "name": "my-project",
-  "source": "src/index.html",
+  "version": "2.0.0",
+  "description": "",
+  "homepage": "https://trayhorn.github.io/js-10-food-service",
   "scripts": {
-    "start": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /js-10-food-service"
   },
   "devDependencies": {
     "parcel": "latest",
