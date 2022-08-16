@@ -6,6 +6,11 @@
     "build": "parcel build src/index.html"
   },
   "devDependencies": {
-    "parcel": "latest"
+    "parcel": "latest",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-transformer-hbs": "^1.0.4"
+  },
+  "dependencies": {
+    "@parcel/config-default": "^2.7.0"
   }
 }
