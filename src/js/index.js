@@ -16,15 +16,17 @@ const Theme = {
   DARK: 'dark-theme',
 };
 
+const { LIGHT, DARK } = Theme;
+
 function changeThemeOnClick() {
-  if (bodyEl.classList.contains(Theme.DARK)) {
-    bodyEl.classList.remove(Theme.DARK);
-    bodyEl.classList.add(Theme.LIGHT);
-    localStorage.setItem('theme', Theme.LIGHT);
+  if (bodyEl.classList.contains(DARK)) {
+    bodyEl.classList.remove(DARK);
+    bodyEl.classList.add(LIGHT);
+    localStorage.setItem('theme', LIGHT);
   } else {
-    bodyEl.classList.remove(Theme.LIGHT);
-    bodyEl.classList.add(Theme.DARK);
-    localStorage.setItem('theme', Theme.DARK);
+    bodyEl.classList.remove(LIGHT);
+    bodyEl.classList.add(DARK);
+    localStorage.setItem('theme', DARK);
   }
 }
 
